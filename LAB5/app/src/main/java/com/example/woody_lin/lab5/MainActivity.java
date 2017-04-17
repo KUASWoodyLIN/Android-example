@@ -149,6 +149,7 @@ public class MainActivity extends AppCompatActivity {
         final String[] list = {"message 1","message 2","message 3","message 4","message 5"};
 
         AlertDialog.Builder dialog_list = new AlertDialog.Builder(MainActivity.this);
+        dialog_list.setTitle("利用 List 呈現");
         dialog_list.setItems(list, new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
