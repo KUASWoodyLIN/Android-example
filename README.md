@@ -1,11 +1,6 @@
 # Android-example
-LAB0 Github 版本控制
 
-Lab1 Android Studio Introduction
-
-Lab2 畫面設計
-
-Lab3 物件控制與監聽
+Lab1 物件控制與監聽
 
 Lab4 Intent切換Activity
 
